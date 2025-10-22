@@ -10,7 +10,7 @@ A minimal campus forum built with Flask + SQLite.
 - Lightweight database (SQLite)
 
 ## Our Structure
-'''
+```
 campus-forum/
 ├── app.py                 # Flask 主程序
 ├── templates/             # 前端页面（HTML模板）
@@ -23,4 +23,4 @@ campus-forum/
 │   ├── style.css
 ├── forum.db               # SQLite 数据库
 └── requirements.txt       # Python依赖
-'''
+```
