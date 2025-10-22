@@ -24,3 +24,8 @@ campus-forum/
 ├── forum.db               # SQLite 数据库
 └── requirements.txt       # Python依赖
 ```
+## 🎯 Forum Sections
+- 📝 问卷互助 — 学术问卷、科研互助
+- 💼 Intern专区 — 实习、内推、招聘经验
+- 🎉 校内活动 — 讲座、社团、展览、比赛
+- 🧠 专业答疑 — 课程学习与学术讨论
